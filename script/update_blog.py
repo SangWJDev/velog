@@ -2,7 +2,7 @@ import feedparser
 import git
 import os
 
-rss_url = 'https://api.velog.io/rss/@Sang_WJ'
+rss_url = 'https://api.velog.io/rss/@tkdalsrb123'
 
 # 깃허브 레포지토리 경로
 repo_path = '.'
